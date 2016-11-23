@@ -17,7 +17,8 @@ Steps to run the code:
 1.On the command line go the directory containing the files
 
 2.Type or copy and paste the below command to run the python program on the command line
-       Rscript --vanilla tweets-k-means.R 25 ./InitialSeeds.txt ./Tweets.json ./output.txt
+       
+Rscript --vanilla tweets-k-means.R 25 ./InitialSeeds.txt ./Tweets.json ./output.txt
        
 Note:You can change the name of the output file if the output file with the name already exists.
 
